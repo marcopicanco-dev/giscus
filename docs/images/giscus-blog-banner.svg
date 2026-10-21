@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="banner-title banner-description">
+  <title id="banner-title">A conversa continua depois do artigo</title>
+  <desc id="banner-description">Cabeçalho do repositório de comentários do blog de Marco Picanço. Identidade modernista com marfim, grafite e terracota. À direita, uma ilustração de mensagens representa comentários e respostas no GitHub Discussions.</desc>
+  <rect width="1200" height="360" fill="#F7F4EE"/>
+  <rect x="48" y="45" width="11" height="11" fill="#B63825"/>
+  <text x="73" y="56" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2" fill="#252B2A">MP / DEV</text>
+  <text x="48" y="125" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing="2" fill="#596158">GISCUS · COMENTÁRIOS DO BLOG</text>
+  <text x="45" y="190" font-family="Inter,Arial,sans-serif" font-size="49" font-weight="600" letter-spacing="-2" fill="#252B2A">A conversa continua.</text>
+  <text x="45" y="247" font-family="Inter,Arial,sans-serif" font-size="49" font-weight="600" letter-spacing="-2" fill="#B63825">Depois do artigo.</text>
+  <text x="48" y="298" font-family="Inter,Arial,sans-serif" font-size="15" fill="#596158">marcopicanco.com</text>
+  <path d="M731 48V312" stroke="#D8D5CB" stroke-width="1"/>
+  <rect x="783" y="67" width="354" height="111" fill="#EFEBE3"/>
+  <rect x="805" y="90" width="30" height="30" rx="15" fill="#252B2A"/>
+  <rect x="852" y="92" width="155" height="7" fill="#596158"/>
+  <rect x="852" y="109" width="252" height="6" fill="#D8D5CB"/>
+  <rect x="805" y="142" width="299" height="6" fill="#D8D5CB"/>
+  <path d="M807 178V201H830" fill="none" stroke="#D8D5CB" stroke-width="1"/>
+  <rect x="839" y="189" width="298" height="93" fill="#252B2A"/>
+  <rect x="860" y="209" width="23" height="23" rx="11.5" fill="#B63825"/>
+  <rect x="898" y="212" width="111" height="6" fill="#F7F4EE"/>
+  <rect x="898" y="228" width="210" height="5" fill="#92968D"/>
+  <rect x="860" y="254" width="248" height="5" fill="#596158"/>
+  <text x="784" y="313" font-family="Inter,Arial,sans-serif" font-size="11" letter-spacing="1.5" fill="#596158">ARTIGOS · GISCUS · GITHUB DISCUSSIONS</text>
+</svg>
